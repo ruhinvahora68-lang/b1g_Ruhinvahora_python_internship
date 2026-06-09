@@ -8,4 +8,4 @@ elif age < 50:
   print("Price: Rs 300")
 else:
   print("Ticket Category: Senior")
-  print("Price: Rs 250")
+  print("Price: Rs 2git init50")
