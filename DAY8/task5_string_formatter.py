@@ -2,10 +2,10 @@ name = input("Enter your name: ")
 city = input("Enter your city: ")
 
 
-formatted_name = name.strip().title()
-formatted_city = city.strip().title()
+f_name = name.strip().title()
+f_city = city.strip().title()
 
 
-message = f"My name is {formatted_name} and I live in {formatted_city}"
+message = f"My name is {f_name} and I live in {f_city}"
 
 print(message)
